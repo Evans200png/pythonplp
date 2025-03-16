@@ -1,4 +1,3 @@
-Ecsape
 def calculate(num1, num2, operation):
   """Performs the specified mathematical operation on two numbers."""
   if operation == '+':
